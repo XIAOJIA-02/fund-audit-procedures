@@ -1,0 +1,13 @@
+{
+  "valuation_date": "2026-10-31",
+  "investments_at_market_value": 41618069.8,
+  "cash_at_bank": 2418560.22,
+  "dividends_receivable": 86420.0,
+  "payable_for_investments_purchased": 459886.0,
+  "redemptions_payable": 312400.0,
+  "other_payables": 41850.0,
+  "accrued_management_fee": 49605.17,
+  "units_in_issue": 3850000,
+  "reported_nav": 43259308.85,
+  "reported_nav_per_unit": 11.2362
+}

@@ -1,0 +1,2 @@
+trade_id,security_id,side,quantity,price,currency,trade_date,settle_date
+TRD-2610-118,SEC07,BUY,5000,61.4,EUR,2026-10-30,2026-11-03

@@ -1,0 +1,15 @@
+security_id,security_name,asset_class,currency,unit,quantity,fund_price,fund_price_date
+SEC01,Northwind Semiconductor Inc,Equity,USD,shares,21000,268.4,2026-10-31
+SEC02,Lumen Cloud Systems Corp,Equity,USD,shares,34000,141.25,2026-10-31
+SEC03,Straits Digital Bank Ltd,Equity,SGD,shares,30000,21.5,2026-10-31
+SEC04,Orchid Biosciences plc,Equity,EUR,shares,26000,88.1,2026-10-31
+SEC05,Kestrel Renewable Energy Inc,Equity,USD,shares,20000,48.6,2026-10-31
+SEC06,Tanjong Industrial REIT,Equity,SGD,shares,600000,1.92,2026-10-31
+SEC07,Alder Robotics AG,Equity,EUR,shares,25000,61.4,2026-10-31
+SEC08,Cobalt Payments Inc,Equity,USD,shares,15000,205.8,2026-10-31
+SEC09,Marina Consumer Holdings Ltd,Equity,SGD,shares,220000,7.85,2026-10-31
+SEC10,Helix Medical Devices Inc,Equity,USD,shares,9000,410.2,2026-10-31
+SEC11,Pacific Rim Logistics Ltd,Equity,SGD,shares,40000,9.5,2026-10-31
+SEC12,Harbour Infrastructure Trust 4.1% 2030,Bond,SGD,nominal,3000000,98.5,2026-09-30
+SEC13,Solace Utilities 3.6% 2029,Bond,USD,nominal,2500000,101.3,2026-10-31
+SEC14,Aurora Development Bank 2.8% 2028,Bond,EUR,nominal,1500000,97.6,2026-10-31

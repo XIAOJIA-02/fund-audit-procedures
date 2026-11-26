@@ -1,0 +1,6 @@
+ref,area,reference,description,nav_overstatement,above_clearly_trivial
+M1,Valuation,SEC05,Kestrel Renewable Energy Inc: exception,49210.0,True
+M2,Valuation,SEC12,Harbour Infrastructure Trust 4.1% 2030: exception - stale price,129000.0,True
+M3,Completeness,SEC03,Straits Digital Bank Ltd: unrecorded corporate action,-64500.0,True
+M4,Existence,SEC11,Pacific Rim Logistics Ltd: not held at custodian,380000.0,True
+M5,Accuracy,MGMT FEE,Management fee over-accrued vs prospectus rate,-3674.45,False
